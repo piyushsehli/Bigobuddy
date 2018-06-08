@@ -1,0 +1,22 @@
+.tasks-con{
+	box-sizing: border-box;
+	border:1px solid #ccc;
+	border-radius:5px;
+	-moz-box-shadow: 0 0 5px #888;
+	webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+}
+.shadow {
+	padding:10px;
+	border-radius:5px;
+	margin-bottom: 15px;
+   -moz-box-shadow:    inset 0 0 1px #000000;
+   -webkit-box-shadow: inset 0 0 1px #000000;
+   box-shadow:         inset 0 0 1px #000000;
+}
+.margin-offset{
+	margin-top:10px;
+}
+.input-date{
+	width:20px !important;
+}
